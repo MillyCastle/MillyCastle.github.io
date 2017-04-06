@@ -14,7 +14,8 @@ body {
 /* CUSTOMIZE THE NAVBAR
 -------------------------------------------------- */
 
-/* Special class on .container surrounding .navbar, used for positioning it into place. */
+/* Special class on .container surrounding .navbar, used for 
+positioning it into place. */
 .navbar-wrapper {
     position: absolute;
     top: 0;
@@ -67,7 +68,8 @@ body {
 /* MARKETING CONTENT
 -------------------------------------------------- */
 
-/* Center align the text within the three columns below the carousel */
+/* Center align the text within the three columns below the carousel 
+*/
 .marketing .col-lg-4 {
     margin-bottom: 20px;
     text-align: center;
@@ -113,7 +115,8 @@ body {
         padding-left: 0;
     }
 
-    /* The navbar becomes detached from the top, so we round the corners */
+    /* The navbar becomes detached from the top, so we round the 
+corners */
     .navbar-wrapper .navbar {
         border-radius: 4px;
     }
@@ -137,10 +140,30 @@ body {
 }
 
 .mycode{
-    margin:100px 0 100px 0
+    margin:50px 0 50px 0
+}
+
+.topa{
+    margin-top: 100px;
+}
+
+.topb{
+    margin-top: 150px;
+}
+
+.topc{
+    margin-top: 25px;
 }
 
 
+.list-group-item{
+    background-color: #cccccc;
+}
+
+
+.blackactive{
+    background-color: black;
+}
 
 
 
